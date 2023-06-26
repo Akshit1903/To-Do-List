@@ -2,6 +2,8 @@
 
 This is a simple Todo App built using EJS, Express, Node.js, HTML, and CSS.
 
+- <a href="https://to-do-list-phi-flax-65.vercel.app/">Deployed Link</a>
+
 ## Features
 
 - Add new tasks to your todo list.
