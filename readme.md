@@ -29,7 +29,7 @@ This is a simple Todo App built using EJS, Express, Node.js, HTML, and CSS.
 3. Start the application:
 
 ```bash
-    npm start
+    node index.js
 ```
 
 4. Open your web browser and visit `http://localhost:3000` to access the Todo App.
